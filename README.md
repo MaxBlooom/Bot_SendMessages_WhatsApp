@@ -1,12 +1,14 @@
 # bot-message-whatsapp
 
-🤖 Robô RPA para Enviar Mensagens no WhatsApp com .NET 7.0
+🤖 Robô RPA para Enviar Mensagens no WhatsApp Web com .NET 7.0
 
 Fala Devs! 👋
 
 Este projeto tem como objetivo testar e demonstrar como criar um RPA (Robotic Process Automation) para envio automatizado de mensagens no WhatsApp, utilizando a linguagem C# com a plataforma .NET. A ideia é aplicar automação robótica para interagir com o WhatsApp Web, simulando ações humanas de forma programada.
 
 🚀 Tecnologias Utilizadas
+Framework EasyAutomationFramework
+Selenium WebDriver
 .NET
 C#
 
