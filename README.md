@@ -34,25 +34,20 @@ Usar boas práticas de automação e código limpo.
 Clone o repositório:
 
 
-git clone https://github.com/MaxBlooom/Bot_SendMessages_WhatsApp
-
+git clone https://github.com/MaxBlooom/BotRPA_SendMessages_WhatsApp
 Acesse a pasta do projeto:
 
-cd nome-do-projeto
+cd BotRPA_SendMessages_WhatsApp
 
-Restaure os pacotes:
-dotnet restore
-
-Compile e execute:
+Compilae e executar:
 
 dotnet run
 Nota: Certifique-se de ter o .NET 7.0 instalado e o navegador (Chrome ou Edge) atualizado.
 
 
 
-
 📚 Referência de Estudo
-Este projeto foi motivado por estudos sobre automação e testes de integração através da linguagem C# e WhatsApp.
+Este projeto foi motivado por estudos sobre automações RPA e testes de integração através da linguagem C# e frameworks para criação das automações.
 
 🤝 Contribuições
 Contribuições são sempre bem-vindas! Abra uma issue ou envie um pull request com melhorias ou sugestões.
